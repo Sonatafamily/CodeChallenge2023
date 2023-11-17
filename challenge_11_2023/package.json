@@ -1,0 +1,19 @@
+{
+  "name": "challenge_11_2023",
+  "version": "1.0.0",
+  "description": "An egyptian cat wants to build a pyramid made of character and it wants to put its name inside of it",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx ts-node ./src/index.ts",
+    "start:dev": "npx nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
