@@ -1,0 +1,21 @@
+{
+  "name": "pokemon-battle",
+  "version": "1.0.0",
+  "description": "Pokemon battle simulator",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/pokemonBattle.ts",
+    "start:faker": "ts-node src/fakerPokemonBattle.ts"
+  },
+  "keywords": [],
+  "author": "Angel Arciniega<mangel.arciniega@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "8.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.10.4",
+    "ts-node": "10.9.2",
+    "typescript": "5.3.3"
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Ash Ketchum",
+    "pokemons": [],
+    "town": "Palleta"
+  },
+  {
+    "id": 2,
+    "name": "Tai Tanaka",
+    "pokemons": [],
+    "town": "Tokio"
+  },
+  {
+    "id": 3,
+    "name": "Misty",
+    "pokemons": [],
+    "town": "Cerulean"
+  },
+  {
+    "id": 4,
+    "name": "Brock",
+    "pokemons": [],
+    "town": "Pewter"
+  },
+  {
+    "id": 5,
+    "name": "Gary Oak",
+    "pokemons": [],
+    "town": "Palleta"
+  },
+  {
+    "id": 6,
+    "name": "Jessie",
+    "pokemons": [],
+    "town": "Team Rocket"
+  },
+  {
+    "id": 7,
+    "name": "James",
+    "pokemons": [],
+    "town": "Team Rocket"
+  },
+  {
+    "id": 8,
+    "name": "Meowth",
+    "pokemons": [],
+    "town": "Team Rocket"
+  },
+  {
+    "id": 9,
+    "name": "Mewtwo",
+    "pokemons": [],
+    "town": "Unknown"
+  },
+  {
+    "id": 10,
+    "name": "Mew",
+    "pokemons": [],
+    "town": "Unknown"
+  },
+  {
+    "id": 11,
+    "name": "Professor Oak",
+    "pokemons": [],
+    "town": "Palleta"
+  },
+  {
+    "id": 12,
+    "name": "Professor Elm",
+    "pokemons": [],
+    "town": "New Bark"
+  },
+  {
+    "id": 13,
+    "name": "Professor Birch",
+    "pokemons": [],
+    "town": "Littleroot"
+  },
+  {
+    "id": 14,
+    "name": "Professor Rowan",
+    "pokemons": [],
+    "town": "Sandgem"
+  },
+  {
+    "id": 15,
+    "name": "Professor Juniper",
+    "pokemons": [],
+    "town": "Nuvema"
+  },
+  {
+    "id": 16,
+    "name": "Professor Sycamore",
+    "pokemons": [],
+    "town": "Vaniville"
+  },
+  {
+    "id": 17,
+    "name": "Professor Kukui",
+    "pokemons": [],
+    "town": "Hau'oli"
+  },
+  {
+    "id": 18,
+    "name": "Professor Magnolia",
+    "pokemons": [],
+    "town": "Postwick"
+  },
+  {
+    "id": 19,
+    "name": "Professor Sonia",
+    "pokemons": [],
+    "town": "Wedgthurt"
+  },
+  {
+    "id": 20,
+    "name": "Professor Cerise",
+    "pokemons": [],
+    "town": "Slumbering Weald"
+  }
+]
